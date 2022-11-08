@@ -1,0 +1,9 @@
+关于使用origin Pro2017打开一个.opju类型的文件的方法
+
+答： 搜索网站：https://www.originlab.com/viewer/dl.aspx
+下载 Origin Windows Viewer
+或者直接下载本项目中的OriginViewer_64.zip文件
+
+下载压缩包后解压，打开OrgView99_64.exe，无需安装任何
+将OPJU文件放到查看器中，然后，选择文件：将项目另存为并另存为OPJ即可
+在使用origin Pro 2017 打开.opj类型文件
